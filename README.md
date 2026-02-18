@@ -8,7 +8,7 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
 
 ---
 
-### 🚀 Active Projects
+### Active Projects
 <p align="left">
   <a href="https://github.com/mariana2103/UniMatch">
     <img src="./assets/uni-match-icon.png" height="60" alt="UniMatch" />
@@ -24,30 +24,38 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariana2103&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=7e7e7e" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana2103&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=7e7e7e" />
+<a href="https://github.com/mariana2103">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mariana2103&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=7e7e7e&count_private=true" />
+</a>
+<a href="https://github.com/mariana2103">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana2103&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=7e7e7e" />
+</a>
 </p>
 
 ---
 
 ### 🤖 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,go,cpp,java,ts,react,postgres,docker,azure,git,linux" />
+  <img src="https://skillicons.dev/icons?i=py,django,go,cpp,java,js,ts,react,html,css,tailwind,postgres,mongodb,docker,kubernetes,azure,git,linux" />
 </p>
 
 ---
 
 ### 🏆 Highlights
-* 🛡️ **Cybersecurity @ Armis:** Implementing Zero Trust security & building attack simulation labs.
-* 🔬 **Research @ U.Porto:** Developing full-stack platforms and optimizing AI data ingestion.
-* 👩‍💼 **PM @ Niaefeup:** Leading technical refactoring of monolithic codebases into modular components.
-* 🥇 **Retro Jam Winner:** Developed "Revive" for PICO-8.
-* 🏐 **Athlete:** National 4th place in 1st division Under-21 Volleyball (Leixões SC).
+
+* 🛡️ **Cybersecurity @ Armis:** Deployed Zero Trust policies and built attack simulation labs to validate security posture.
+* 🔬 **Research @ U.Porto:** Built a full-stack platform from scratch, integrating university APIs and optimizing AI-driven data ingestion.
+* 👩‍💼 **PM @ Niaefeup:** Led the technical refactoring of a monolithic codebase into modular components.
+* 🥇 **Retro Jam Winner:** Won 1st prize for "Revive," a game built under the technical constraints of PICO-8.
+* 🌍 **Volunteering:** Teaching programming logic and coding at TreeTree2 since 2023.
+* 🏐 **Athlete:** Ranked 4th nationally in 1st division Under-21 Volleyball (Leixões SC).
 
 ---
 
-### 📫 Let's Connect!
+
+### Let's Connect!
 <p align="left">
 <a href="https://www.linkedin.com/in/mcaalmeida/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>&nbsp;
 <a href="mailto:marianacabralmeida@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
