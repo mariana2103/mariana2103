@@ -10,7 +10,7 @@ I live for tough challenges and the mental workout of untangling tricky problems
 **Current roles:**
 <p align="left">
   <img src="https://img.shields.io/badge/Cybersecurity_Intern_@_Armis-ebbcba?style=for-the-badge" height="35"/> 
-  <img src="https://img.shields.io/badge/Researche_Grantee_@_U.Porto-e0def4?style=for-the-badge" height="35"/> 
+  <img src="https://img.shields.io/badge/Research_Grantee_@_U.Porto-e0def4?style=for-the-badge" height="35"/> 
   <img src="https://img.shields.io/badge/PM_@_Niaefeup-ebbcba?style=for-the-badge" height="35"/>
 </p>
 
