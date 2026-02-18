@@ -2,14 +2,14 @@
 <img src="https://img.shields.io/static/v1?label=&message=Software%20Engineering%20@%20FEUP&color=ebbcba&labelColor=ebbcba&style=for-the-badge" height="35" />
 
 
-I’m a Computer Engineering student with an insatiable curiosity. I can’t stop until I’ve solved something. 
+I’m a Computer Engineering student driven by a chronic need to solve puzzles and a total refusal to settle for "good enough." 
 
+I live for the thrill of a complex challenge and the mental workout that comes with diving into the deep end of a new codebase. I am most at home where the stakes are high and the logic is tricky because let’s be real, if it were easy I would be bored.
 
-Ever since I was a kid, I’ve been drawn to challenges that make me think and keep me busy. I found my passion in Computer Engineering because I love diving into complex problems, breaking them down, and finding solutions that actually make sense.
 
 **Current roles:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Intern_@_Armis-ebbcba?style=for-the-badge" height="35"/> 
+  <img src="https://img.shields.io/badge/Cybersecurity_Intern_@_Armis-ebbcba?style=for-the-badge" height="35"/> 
   <img src="https://img.shields.io/badge/Researcher_@_U.Porto-e0def4?style=for-the-badge" height="35"/> 
   <img src="https://img.shields.io/badge/PM_@_Niaefeup-ebbcba?style=for-the-badge" height="35"/>
 </p>
@@ -43,18 +43,16 @@ Ever since I was a kid, I’ve been drawn to challenges that make me think and k
 </p>
 
 
-### ✨ Highlights
+## ✨ Fun Facts & Highlights
 
-* 🗝️ **Cybersecurity @ Armis** — Implementing Zero Trust endpoint and identity policies using Microsoft Defender and Intune.
-* 🫧 **Research @ U.Porto** — Architecting a full-stack platform from scratch and refactoring AI-driven Python services.
 * 🏹 **Retro Jam Winner** — Secured 1st place with "Revive," a retro-style game built under the technical constraints of PICO-8.
 * 🕊️ **Volunteering @ TreeTree2** — Teaching Python logic and training high school students for the National Informatics Olympics (ONIs).
-* 🌊 **Athlete** — Competitive 1st division Under-21 Volleyball player, ranked 4th nationally with Leixões SC.
+* 🫧 **Athlete** — Competitive 1st division Under-21 Volleyball player, ranked 4th nationally with Leixões SC.
 
 
 ## 💌 Let's Connect!
 
-Currently seeking: Summer Internships or Junior Roles. I'm a versatile engineer eager to explore where I can make the most impact, whether in Backend, Frontend or Cybersecurity.
+Currently seeking: Summer Internships or Junior Roles (Backend, Frontend, Systems, or Security).
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mcaalmeida/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-ebbcba?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;
