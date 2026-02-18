@@ -1,4 +1,4 @@
-*# 👩🏻‍💻 Mariana Almeida
+# 👩🏻‍💻 Mariana Almeida
 **`Software Engineering & Cybersecurity @ FEUP`**
 
   
@@ -7,19 +7,20 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
 Currently balancing:
 **Intern @ Armis** 🛡️ | **Researcher @ U.Porto** 🔬 | **PM @ Niaefeup**
 
----
 
 ### 🚀 Active Projects
 
+<p align="left">
 <a href="https://github.com/mariana2103/UniMatch">
-<img src="./assets/uni-match-icon.png" width="200">
-</a>
+<img src="./assets/uni-match-icon.png" height="50" alt="UniMatch" />
+</a>&nbsp;&nbsp;
 <a href="https://github.com/mariana2103/CV-Tailor">
-<img src="./assets/cv-tailor-icon.png" width="200">
-</a>
+<img src="./assets/cv-tailor-icon.png" height="50" alt="CV Tailor" />
+</a>&nbsp;&nbsp;
 <a href="https://github.com/mariana2103/UCReview">
-<img src="./assets/uc-review-icon.png" width="200">
+<img src="./assets/uc-review-icon.png" height="50" alt="UCReview" />
 </a>
+</p>
 
 ### 🤖 Tech Stack & Tools
 
@@ -39,7 +40,6 @@ Currently balancing:
 <br/>
 <br/>
 
----
 
 ### 🏆 Highlights
 * 🛡️ **Cybersecurity @ Armis:** Implementing Zero Trust security & building attack simulation labs.
