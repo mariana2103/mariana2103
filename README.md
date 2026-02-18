@@ -52,7 +52,7 @@ I live for tough challenges and the mental workout of untangling tricky problems
 
 ## 💌 Let's Connect!
 
-Currently seeking: Summer Internships or Junior Roles (Backend, Frontend, Systems, or Security).
+**Currently seeking:** Summer Internships or Junior Roles (Backend, Frontend, Systems, or Security).
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mcaalmeida/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-ebbcba?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;
