@@ -2,7 +2,9 @@
 <img src="https://img.shields.io/static/v1?label=&message=Software%20Engineering%20@%20FEUP&color=ebbcba&labelColor=ebbcba&style=for-the-badge" height="35" />
 
 
-I’m a Computer Engineering student with an insatiable curiosity—I can’t stop until I’ve solved something. 
+I’m a Computer Engineering student with an insatiable curiosity. I can’t stop until I’ve solved something. 
+
+
 Ever since I was a kid, I’ve been drawn to challenges that make me think and keep me busy. I found my passion in Computer Engineering because I love diving into complex problems, breaking them down, and finding solutions that actually make sense.
 
 **Current roles:**
