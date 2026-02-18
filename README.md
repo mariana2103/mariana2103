@@ -20,10 +20,10 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
     <img src="./assets/uc-review-icon.png" height="95" alt="UCReview" />
   </a>
   <a href="https://github.com/NIAEFEUP/tts-fe">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="85" alt="TTS Frontend" />
+    <img src="./assets/tts-fe-icon.png" height="95" alt="TTS Frontend" />
   </a>
   <a href="https://github.com/NIAEFEUP/tts-be">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="85" alt="TTS Backend" />
+    <img src="./assets/tts-be-icon.png" height="95" alt="TTS Backend" />
   </a>
 </div>
 
