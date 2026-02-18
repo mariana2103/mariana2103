@@ -31,10 +31,10 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
 
 <p align="left">
 <a href="https://github.com/mariana2103">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mariana2103&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=7e7e7e&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mariana2103&show_icons=true&theme=dark&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=7e7e7e&count_private=true&cache_seconds=1800" />
 </a>
 <a href="https://github.com/mariana2103">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana2103&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=7e7e7e" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana2103&layout=compact&theme=dark&hide_border=true&title_color=00d1b2&text_color=7e7e7e&cache_seconds=1800" />
 </a>
 </p>
 
@@ -42,7 +42,7 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
 
 ### 🤖 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,go,cpp,java,js,ts,react,html,css,tailwind,postgres,mongodb,docker,kubernetes,azure,git,linux" />
+  <img src="https://skillicons.dev/icons?i=py,django,cpp,java,ts,react,html,css,tailwind,postgres,mongodb,docker,kubernetes,azure,linux" />
 </p>
 
 ---
