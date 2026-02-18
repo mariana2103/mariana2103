@@ -8,34 +8,30 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
 
 ---
 
-### 🚀 Active Projects
 
+### 🚀 Active Projects
 <p align="left">
   <a href="https://github.com/mariana2103/UniMatch">
-    <img src="./assets/uni-match-icon.png" height="65" alt="UniMatch" />
-  </a>&nbsp;&nbsp;
+    <img src="./assets/uni-match-icon.png" height="90" style="vertical-align:middle;margin-right:25px;" alt="UniMatch" />
+  </a>
   <a href="https://github.com/mariana2103/CV-Tailor">
-    <img src="./assets/cv-tailor-icon.png" height="65" alt="CV Tailor" />
-  </a>&nbsp;&nbsp;
+    <img src="./assets/cv-tailor-icon.png" height="70" style="vertical-align:middle;margin-right:25px;" alt="CV Tailor" />
+  </a>
   <a href="https://github.com/mariana2103/UCReview">
-    <img src="./assets/uc-review-icon.png" height="65" alt="UCReview" />
+    <img src="./assets/uc-review-icon.png" height="90" style="vertical-align:middle;" alt="UCReview" />
   </a>
 </p>
 
-**[UniMatch](https://github.com/mariana2103/UniMatch)** — Streamlining university class exchanges and data ingestion.
-**[CV Tailor](https://github.com/mariana2103/CV-Tailor)** — Automating the optimization of professional presence for developers.
-**[UCReview](https://github.com/mariana2103/UCReview)** — Enhancing course transparency via AI-driven modular analysis.
 ---
 
-### 📊 GitHub Stats
-
+### 📊 GitHub Activity
 <p align="left">
-<a href="https://github.com/mariana2103">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mariana2103&show_icons=true&theme=dark&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=7e7e7e&count_private=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/mariana2103">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana2103&layout=compact&theme=dark&hide_border=true&title_color=00d1b2&text_color=7e7e7e&cache_seconds=1800" />
-</a>
+  <a href="https://github.com/mariana2103">
+    <img src="https://github-readme-stats.vercel.app/api?username=mariana2103&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=7e7e7e&count_private=true" height="195" />
+  </a>
+  <a href="https://github.com/mariana2103">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana2103&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=7e7e7e" height="195" />
+  </a>
 </p>
 
 ---
