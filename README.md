@@ -2,7 +2,8 @@
 <img src="https://img.shields.io/static/v1?label=&message=Software%20Engineering%20@%20FEUP&color=ebbcba&labelColor=ebbcba&style=for-the-badge" height="30" />
 
 
-I'm a Computer Engineering student always in pursuit of the next challenge. I thrive on complexity and high-pressure environments and I’m at my best when things are moving fast and the stakes are high.
+Computer Engineering student who enjoys hands-on work. I’m drawn to complex problems, fast moving projects, and building things that are actually useful.
+I’m curious, analytical, and enjoy working on  problems that have real impact.
 
 
 **Currently balancing:**
