@@ -1,25 +1,11 @@
 # 👩🏻‍💻 Mariana Almeida
+**`Software Engineering & Cybersecurity @ FEUP`**
 
-**`Computer Science & Engineering @ FEUP`**
+  
+I'm a Computer Engineering student always in pursuit of the next challenge. I’m a naturally proactive person who honestly can’t stay professionally idle.I thrive on complexity and I’m at my best when I’m proactively learning something new under high-pressure conditions
 
-Computer Engineering student focused on building reliable, scalable backend systems and clean code. Currently a **Cybersecurity Intern @ Armis**, **AI Research Grantee @ U.Porto**, and **Project Manager @ Niaefeup**. I’m passionate about turning complex problems into practical solutions, from refactoring monolithic codebases to implementing Zero Trust security models.
-
-<p align="left">
-    <a href="https://github.com/mariana2103?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/mariana2103?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/mariana2103?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/mariana2103?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Currently balancing:
+**Intern @ Armis** 🛡️ | **Researcher @ U.Porto** 🔬 | **PM @ Niaefeup**
 
 ---
 
