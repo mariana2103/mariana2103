@@ -9,7 +9,7 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
 ---
 
 ### 🚀 Active Projects
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 80px;">
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 80px; flex-wrap: wrap; margin-bottom: 40px;">
   <a href="https://github.com/mariana2103/UniMatch">
     <img src="./assets/uni-match-icon.png" height="95" alt="UniMatch" />
   </a>
@@ -19,35 +19,36 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
   <a href="https://github.com/mariana2103/UCReview">
     <img src="./assets/uc-review-icon.png" height="95" alt="UCReview" />
   </a>
+  <a href="https://github.com/NIAEFEUP/tts-fe">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="85" alt="TTS Frontend" />
+  </a>
+  <a href="https://github.com/NIAEFEUP/tts-be">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="85" alt="TTS Backend" />
+  </a>
 </div>
 
 ---
 
+
 ### 📊 GitHub Activity
-<p align="left">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="195" 
-    style="margin-right: 30px;" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariana2103&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=3" 
-  />
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="195" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariana2103&theme=tokyonight&layout=compact&langs_count=9&v=3" 
-  />
-</p>
 
-<br clear="left"/>
-
----
-
-### 🤖 Tech Stack & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,cpp,java,ts,react,html,css,tailwind,postgres,mongodb,docker,kubernetes,azure,linux" />
-</p>
+<p align="center">
+  <a href="https://github.com/mariana2103">
+    <img 
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariana2103&show_icons=true&theme=rose_pine&title_color=ebbcba&icon_color=ebbcba&text_color=e0def4&bg_color=191724&hide_border=true&include_all_commits=true&count_private=true&v=60" 
+      alt="GitHub Stats" 
+      height="180" 
+      style="vertical-align: middle;"
+    />
+  </a>
+  <a href="https://github.com/mariana2103">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=mariana2103&theme=rose-pine&bg_color=191724&hide_border=true&color=ebbcba&line=ebbcba&point=e0def4&area=true&hide_grid=true" 
+      alt="Activity Graph" 
+      height="180" 
+      style="vertical-align: middle;"
+    />
+  </a>
 
 ---
 
@@ -62,10 +63,8 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
 
 ---
 
-
 ### 📫 Let's Connect!
-
 <p align="left">
-<a href="https://www.linkedin.com/in/mcaalmeida/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>&nbsp;
-<a href="mailto:marianacabralmeida@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
+<a href="https://www.linkedin.com/in/mcaalmeida/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-ebbcba?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;
+<a href="mailto:marianacabralmeida@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-ebbcba?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
 </p>
