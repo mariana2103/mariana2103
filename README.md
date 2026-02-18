@@ -9,8 +9,6 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
   <img src="https://img.shields.io/badge/PM_@_Niaefeup-ebbcba?style=for-the-badge&logo=google-keep&logoColor=white" height="35"/>
 </p>
 
----
-
 ### 🎀 Active Projects
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 80px; flex-wrap: wrap; margin-bottom: 40px;">
   <a href="https://github.com/mariana2103/UniMatch">
@@ -29,8 +27,6 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
     <img src="./assets/tts-be-icon.png" height="95" alt="TTS Backend" />
   </a>
 </div>
-
----
 
 ### ☁️ GitHub Activity
 
@@ -55,8 +51,6 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
   </a>
 </p>
 
----
-
 ### ✨ Highlights
 
 * 🗝️ **Cybersecurity @ Armis:** Deployed Zero Trust policies and built attack simulation labs to validate security posture.
@@ -65,8 +59,6 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
 * 🥇 **Retro Jam Winner:** Won 1st prize for "Revive," a game built under the technical constraints of PICO-8.
 * 👩‍🏫 **Volunteering:** Teaching programming logic and coding at TreeTree2 since 2023.
 * 🏐 **Athlete:** Ranked 4th nationally in 1st division Under-21 Volleyball (Leixões SC).
-
----
 
 ### 💌 Let's Connect!
 <p align="left">
