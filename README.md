@@ -12,13 +12,13 @@ Currently balancing:
 ### 🚀 Active Projects
 
 <a href="https://github.com/mariana2103/UniMatch">
-<img src="https://img.shields.io/badge/UniMatch-Lead_Dev-brightgreen?style=for-the-badge&logo=github" width="200">
+<img src="./assets/uni-match-icon.png" width="200">
 </a>
 <a href="https://github.com/mariana2103/CV-Tailor">
-<img src="https://img.shields.io/badge/CV_Tailor-Building-orange?style=for-the-badge&logo=python" width="200">
+<img src="./assets/cv-tailor-icon.png" width="200">
 </a>
 <a href="https://github.com/mariana2103/UCReview">
-<img src="https://img.shields.io/badge/UCReview-Research-blueviolet?style=for-the-badge&logo=go" width="200">
+<img src="./assets/uc-review-icon.png" width="200">
 </a>
 
 ### 🤖 Tech Stack & Tools
