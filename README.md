@@ -42,8 +42,6 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I th
 
 ### ✨ Highlights
 
-### ✨ Highlights
-
 * 🗝️ **Cybersecurity @ Armis** — Implementing Zero Trust endpoint and identity policies using Microsoft Defender and Intune.
 * 🫧 **Research @ U.Porto** — Architecting a full-stack platform from scratch and refactoring AI-driven Python services.
 * 🏹 **Retro Jam Winner** — Secured 1st place with "Revive," a retro-style game built under the technical constraints of PICO-8.
