@@ -7,6 +7,7 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
 Currently balancing:
 **Intern @ Armis** 🛡️ | **Researcher @ U.Porto** 🔬 | **PM @ Niaefeup**
 
+---
 
 ### 🚀 Active Projects
 
@@ -21,6 +22,8 @@ Currently balancing:
 <img src="./assets/uc-review-icon.png" height="50" alt="UCReview" />
 </a>
 </p>
+
+---
 
 ### 🤖 Tech Stack & Tools
 
