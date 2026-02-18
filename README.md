@@ -37,7 +37,7 @@ I’m curious, analytical, and enjoy working on  problems that have real impact.
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariana2103&show_icons=true&theme=rose_pine&title_color=ebbcba&icon_color=ebbcba&text_color=e0def4&bg_color=191724&hide_border=true&include_all_commits=true&count_private=true&v=110" width="45%" style="vertical-align: middle;" />
   </a>
   <a href="https://github.com/mariana2103">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariana2103&theme=rose-pine&bg_color=191724&hide_border=true&color=ebbcba&line=ebbcba&point=e0def4&area=true&hide_grid=true" width="49%" style="vertical-align: middle;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariana2103&theme=rose-pine&bg_color=191724&hide_border=true&color=ebbcba&line=ebbcba&point=e0def4&area=true&hide_grid=true" width="50%" style="vertical-align: middle;" />
   </a>
 </p>
 
