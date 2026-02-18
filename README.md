@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Mariana Almeida
-<img src="https://img.shields.io/static/v1?label=&message=Software%20Engineering%20@%20FEUP&color=ebbcba&labelColor=ebbcba&style=for-the-badge" height="30" />
+<img src="https://img.shields.io/static/v1?label=&message=Software%20Engineering%20@%20FEUP&color=ebbcba&labelColor=ebbcba&style=for-the-badge" height="35" />
 
 
 Computer Engineering student who enjoys hands-on work. I’m drawn to complex problems, fast moving projects, and building things that are actually useful.
@@ -8,10 +8,11 @@ I’m curious, analytical, and enjoy working on  problems that have real impact.
 
 **Currently balancing:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Intern_@_Armis-ebbcba?style=flat-square" height="30"/> 
-  <img src="https://img.shields.io/badge/Researcher_@_U.Porto-e0def4?style=flat-square" height="30"/> 
-  <img src="https://img.shields.io/badge/PM_@_Niaefeup-ebbcba?style=flat-square" height="30"/>
+  <img src="https://img.shields.io/badge/Intern_@_Armis-ebbcba?style=for-the-badge" height="35"/> 
+  <img src="https://img.shields.io/badge/Researcher_@_U.Porto-e0def4?style=for-the-badge" height="35"/> 
+  <img src="https://img.shields.io/badge/PM_@_Niaefeup-ebbcba?style=for-the-badge" height="35"/>
 </p>
+
 
 
 ## 🫧 Active Projects
