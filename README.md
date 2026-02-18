@@ -4,13 +4,12 @@
 
 I’m a Computer Engineering student driven by a chronic need to solve puzzles and a total refusal to settle for "good enough." 
 
-I live for the thrill of a complex challenge and the mental workout that comes with diving into the deep end of a new codebase. I am most at home where the stakes are high and the logic is tricky because let’s be real, if it were easy I would be bored.
-
+I live for tough challenges and the mental workout of untangling tricky problems. Give me messy logic or a puzzle, and I’m in my happy place. The harder it gets, the more I’m into it.
 
 **Current roles:**
 <p align="left">
   <img src="https://img.shields.io/badge/Cybersecurity_Intern_@_Armis-ebbcba?style=for-the-badge" height="35"/> 
-  <img src="https://img.shields.io/badge/Researcher_@_U.Porto-e0def4?style=for-the-badge" height="35"/> 
+  <img src="https://img.shields.io/badge/Researche_Grantee_@_U.Porto-e0def4?style=for-the-badge" height="35"/> 
   <img src="https://img.shields.io/badge/PM_@_Niaefeup-ebbcba?style=for-the-badge" height="35"/>
 </p>
 
