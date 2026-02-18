@@ -2,7 +2,8 @@
 <img src="https://img.shields.io/static/v1?label=&message=Software%20Engineering%20@%20FEUP&color=ebbcba&labelColor=ebbcba&style=for-the-badge" height="35" />
 
 
-I’m a Computer Engineering student driven by a chronic need to solve puzzles and a total refusal to settle for "good enough." 
+I’m a Computer Engineering student driven by a chronic need to solve problems and a total refusal to settle until I understand them completely.
+
 
 I live for tough challenges and the mental workout of untangling tricky problems. Give me messy logic or a puzzle, and I’m in my happy place. The harder it gets, the more I’m into it.
 
