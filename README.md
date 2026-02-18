@@ -2,11 +2,10 @@
 <img src="https://img.shields.io/static/v1?label=&message=Software%20Engineering%20@%20FEUP&color=ebbcba&labelColor=ebbcba&style=for-the-badge" height="35" />
 
 
-Computer Engineering student who enjoys hands-on work. I’m drawn to complex problems, fast moving projects, and building things that are actually useful.
-I’m curious, analytical, and enjoy working on  problems that have real impact.
+Computer Engineering student focused on hands-on engineering, backend systems, and real-world problem solving.
+I enjoy complex problems, fast-moving projects, and building things that are actually useful. Curious and analytical, I like working on problems with real impact.
 
-
-**Currently balancing:**
+**Current roles:**
 <p align="left">
   <img src="https://img.shields.io/badge/Intern_@_Armis-ebbcba?style=for-the-badge" height="35"/> 
   <img src="https://img.shields.io/badge/Researcher_@_U.Porto-e0def4?style=for-the-badge" height="35"/> 
@@ -50,7 +49,11 @@ I’m curious, analytical, and enjoy working on  problems that have real impact.
 * 🕊️ **Volunteering @ TreeTree2** — Teaching Python logic and training high school students for the National Informatics Olympics (ONIs).
 * 🌊 **Athlete** — Competitive 1st division Under-21 Volleyball player, ranked 4th nationally with Leixões SC.
 
+
 ## 💌 Let's Connect!
+
+Currently looking for: Summer internships / backend or systems engineering roles.
+
 <p align="left">
 <a href="https://www.linkedin.com/in/mcaalmeida/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-ebbcba?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;
 <a href="mailto:marianacabralmeida@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-e0def4?style=for-the-badge&logo=gmail&logoColor=191724" height="28" /></a>
