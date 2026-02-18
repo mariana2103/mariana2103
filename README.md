@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Mariana Almeida
-<img src="https://img.shields.io/static/v1?label=&message=Software%20Engineering%20%26%20Cybersecurity%20@%20FEUP&color=ebbcba&labelColor=ebbcba&style=for-the-badge" height="30" />
-
-
+<img src="https://img.shields.io/static/v1?label=&message=Software%20Engineering%20@%20FEUP&color=ebbcba&labelColor=ebbcba&style=for-the-badge" height="30" />
 I'm a Computer Engineering student always in pursuit of the next challenge. I’m a naturally proactive person who thrives on complexity and high-pressure environments—honestly, I’m at my best when things are moving fast and the stakes are high.
 
 **Currently balancing:**
