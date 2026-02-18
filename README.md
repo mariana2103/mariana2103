@@ -18,7 +18,7 @@ Currently balancing:
 | <a href="https://github.com/mariana2103/UCReview"><img src="https://img.shields.io/badge/UCReview-Researching-blueviolet?style=for-the-badge&logo=go" width="180"></a> | **Lead Developer** | Enhancing course transparency via AI-driven analysis. |
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 ---
-<a href="https://github.com/mariana2103/CV-Tailor"><img src="https://img.shields.io/badge/CV_Tailor-Building-orange?style=for-the-badge&logo=python" width="180"></a>
+<a href="https://github.com/mariana2103/CV-Tailor"><img src="[https://img.shields.io/badge/CV_Tailor-Building-orange?style=for-the-badge&logo=python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)" width="180"></a>
 
 ### 🤖 Tech Stack & Tools
 
