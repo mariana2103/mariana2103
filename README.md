@@ -9,7 +9,7 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
   <img src="https://img.shields.io/badge/PM_@_Niaefeup-ebbcba?style=for-the-badge&logo=google-keep&logoColor=white" height="35"/>
 </p>
 
-### 🎀 Active Projects
+## 🎀 Active Projects
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 80px; flex-wrap: wrap; margin-bottom: 40px;">
   <a href="https://github.com/mariana2103/UniMatch">
     <img src="./assets/uni-match-icon.png" height="95" alt="UniMatch" />
