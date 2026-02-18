@@ -8,31 +8,39 @@ I'm a Computer Engineering student always in pursuit of the next challenge. I’
 
 ---
 
-
 ### 🚀 Active Projects
-<p align="left">
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 80px;">
   <a href="https://github.com/mariana2103/UniMatch">
-    <img src="./assets/uni-match-icon.png" height="90" style="vertical-align:middle;margin-right:25px;" alt="UniMatch" />
+    <img src="./assets/uni-match-icon.png" height="95" alt="UniMatch" />
   </a>
   <a href="https://github.com/mariana2103/CV-Tailor">
-    <img src="./assets/cv-tailor-icon.png" height="70" style="vertical-align:middle;margin-right:25px;" alt="CV Tailor" />
+    <img src="./assets/cv-tailor-icon.png" height="95" alt="CV Tailor" />
   </a>
   <a href="https://github.com/mariana2103/UCReview">
-    <img src="./assets/uc-review-icon.png" height="90" style="vertical-align:middle;" alt="UCReview" />
+    <img src="./assets/uc-review-icon.png" height="95" alt="UCReview" />
   </a>
-</p>
+</div>
 
 ---
 
 ### 📊 GitHub Activity
 <p align="left">
-  <a href="https://github.com/mariana2103">
-    <img src="https://github-readme-stats.vercel.app/api?username=mariana2103&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=7e7e7e&count_private=true" height="195" />
-  </a>
-  <a href="https://github.com/mariana2103">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana2103&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=7e7e7e" height="195" />
-  </a>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="195" 
+    style="margin-right: 30px;" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariana2103&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=3" 
+  />
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="195" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariana2103&theme=tokyonight&layout=compact&langs_count=9&v=3" 
+  />
 </p>
+
+<br clear="left"/>
 
 ---
 
