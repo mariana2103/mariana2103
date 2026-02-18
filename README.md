@@ -2,8 +2,8 @@
 <img src="https://img.shields.io/static/v1?label=&message=Software%20Engineering%20@%20FEUP&color=ebbcba&labelColor=ebbcba&style=for-the-badge" height="35" />
 
 
-Computer Engineering student focused on hands-on engineering, backend systems, and real-world problem solving.
-I enjoy complex problems, fast-moving projects, and building things that are actually useful. Curious and analytical, I like working on problems with real impact.
+I’m a Computer Engineering student with an insatiable curiosity—I can’t stop until I’ve solved something. 
+Ever since I was a kid, I’ve been drawn to challenges that make me think and keep me busy. I found my passion in Computer Engineering because I love diving into complex problems, breaking them down, and finding solutions that actually make sense.
 
 **Current roles:**
 <p align="left">
@@ -52,7 +52,7 @@ I enjoy complex problems, fast-moving projects, and building things that are act
 
 ## 💌 Let's Connect!
 
-Currently looking for: Summer internships / backend or systems engineering roles.
+Currently seeking: Summer Internships or Junior Roles. I'm a versatile engineer eager to explore where I can make the most impact, whether in Backend, Frontend or Cybersecurity.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mcaalmeida/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-ebbcba?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;
