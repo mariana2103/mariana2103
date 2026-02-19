@@ -30,7 +30,7 @@ I live for tough challenges and the mental workout of untangling tricky problems
   <a href="https://github.com/NIAEFEUP/tts-be"><img src="./assets/tts-be-icon.png" height="90" alt="TTS Backend" /></a>
 </p>
 
-> **Explore the Archive:** 🎀 [Signature Projects](https://github.com/stars/mariana2103/lists/flagship) • 🌺 [Professional Stack](https://github.com/stars/mariana2103/lists/impact) • ⌨️ [FEUP Coursework](https://github.com/stars/mariana2103/lists/feup) • 🗒️ [IST Coursework](https://github.com/stars/mariana2103/lists/ist)
+> **Explore the Archive:** 🎀 [Signature Projects](https://github.com/stars/mariana2103/lists/core-projects) • 🌺 [Professional Stack](https://github.com/stars/mariana2103/lists/professional) • ⌨️ [FEUP Coursework](https://github.com/stars/mariana2103/lists/feup) • 🗒️ [IST Coursework](https://github.com/stars/mariana2103/lists/ist)
 
 
 
