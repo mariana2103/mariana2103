@@ -19,11 +19,11 @@ I live for tough challenges and the mental workout of untangling tricky problems
 ## 🫧 Active Projects
 
 <p align="left">
-  <a href="https://github.com/mariana2103/UniMatch"><img src="./assets/uni-match-icon.png" height="90" alt="UniMatch" /></a>
+  <a href="https://github.com/mariana2103/unimatch"><img src="./assets/uni-match-icon.png" height="90" alt="UniMatch" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mariana2103/CV-Tailor"><img src="./assets/cv-tailor-icon.png" height="90" alt="CV Tailor" /></a>
+  <a href="https://github.com/mariana2103/forgeCV"><img src="./assets/cv-tailor-icon.png" height="90" alt="CV Tailor" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mariana2103/UCReview-Ai"><img src="./assets/uc-review-icon.png" height="90" alt="UCReview" /></a>
+  <a href="https://github.com/mariana2103/ucreview-ai"><img src="./assets/uc-review-icon.png" height="90" alt="UCReview" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/NIAEFEUP/tts-fe"><img src="./assets/tts-fe-icon.png" height="90" alt="TTS Frontend" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
